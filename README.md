@@ -1,9 +1,10 @@
 # Blog Application
 
 ## Description
-Blog Application is an application where user can add a new blog, edit it, delete it as well as view other blogs and make changes in them. 
 
-Application uses LocalStorage, the localStorage object stores data with no expiration date. The data will not be deleted when the browser is closed, and will be available when the user comes again.
+
+A Blog Application is a platform where users can create, edit, delete, and view blogs. This application utilizes LocalStorage for persistent data storage, ensuring that user-generated content remains intact even after the browser is closed. This functionality guarantees that blog entries are available and can be accessed whenever the user returns to the application.
+
 
 ## Stacks Used
 * HTML & CSS
@@ -12,7 +13,7 @@ Application uses LocalStorage, the localStorage object stores data with no expir
 
 ## Use of Project
 
-To understand the concept of the localstorage, how localstorage persist the data, even the tab is closed or user refersh the page.
+To comprehend the concept of LocalStorage, it's important to understand how it persists data. LocalStorage stores data with no expiration date, meaning that the information remains intact even when the browser tab is closed or the page is refreshed. This ensures that the data is available and can be accessed whenever the user returns to the page.
 
 ## ScreenShot
 
