@@ -17,18 +17,18 @@ To comprehend the concept of LocalStorage, it's important to understand how it p
 
 ## ScreenShot
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss1.png?raw=true" />
+<img src="sampel_img/ss1.png" />
 
 Click on the `Add New`, UI looks like:
 
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss2.png?raw=true" />
+<img src="sampel_img/ss2.png" />
 
 Click on the `Open Blog`, UI looks like:
 
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss3.png?raw=true" />
+<img src="sampel_img/ss3.png" />
 
 ## Live Demo
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/demo.gif?raw=true" />
+<img src="sampel_img/v1.png" />
