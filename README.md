@@ -31,4 +31,4 @@ Click on the `Open Blog`, UI looks like:
 
 ## Live Demo
 
-<img src="sampel_img/v1.png" />
+<img src="sampel_img/v1.mp4" />
